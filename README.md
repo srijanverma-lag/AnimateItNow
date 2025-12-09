@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-  <b>Welcome to AnimateItNow — a creative, open-source hub for beautiful web UI components and animations!</b>
+  <b>Welcome to AnimateItNow ++ — a creative, open-source hub for beautiful web UI components and animations!</b>
     <br />
     <a href="https://animate-it-now.netlify.app/"><strong>Explore the Live Demo »</strong></a>
     <br />
